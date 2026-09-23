@@ -16,6 +16,15 @@
 
 Дополнительно построил графики координат во времени — на них видны детали, которые на 3D-графике сливаются: резкие движения головы, паузы в работе рук.
 
+## Данные
+
+Файлы данных не входят в репозиторий из-за размера. Скачайте их отдельно:
+
+- [trackingData_20260505_165740.txt (246 МБ)](https://drive.google.com/file/d/1dbIVcrok7eRb_lUGbr1ivZp0yq3cdlzZ/view?usp=sharing)
+- [CameraRecord_20260505_165740.mp4 (189 МБ)](https://drive.google.com/file/d/1YjwJGzQ0HsNKpphRQJMAh-f_uk2q_Ljj/view?usp=sharing)
+
+Положите `trackingData_20260505_165740.txt` в папку `data/` перед запуском.
+
 ## Структура репозитория
 
 ```
